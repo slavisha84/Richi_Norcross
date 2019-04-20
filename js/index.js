@@ -1,148 +1,148 @@
 
-var boston = [{
-  "City": "Boston",
-  "Date": "4/15/19 12:00 AM",
-  "Actual": 51.44,
-  "Forecast": 53.32
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 1:00 AM",
-  "Actual": 49.67,
-  "Forecast": 51.19
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 2:00 AM",
-  "Actual": 48.46,
-  "Forecast": 49.16
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 3:00 AM",
-  "Actual": 47.37,
-  "Forecast": 47.46
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 4:00 AM",
-  "Actual": 46.59,
-  "Forecast": 46.34
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 5:00 AM",
-  "Actual": 45.46,
-  "Forecast": 45.6
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 6:00 AM",
-  "Actual": 44.88,
-  "Forecast": 46.05
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 7:00 AM",
-  "Actual": 45.85,
-  "Forecast": 45.55
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 8:00 AM",
-  "Actual": 45.3,
-  "Forecast": 44.93
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 9:00 AM",
-  "Actual": 44.79,
-  "Forecast": 44.06
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 10:00 AM",
-  "Actual": 42.51,
-  "Forecast": 43.57
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 11:00 AM",
-  "Actual": 42.67,
-  "Forecast": 43.53
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 12:00 PM",
-  "Actual": 45.83,
-  "Forecast": 44.31
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 1:00 PM",
-  "Actual": 47.65,
-  "Forecast": 45.97
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 2:00 PM",
-  "Actual": 48.91,
-  "Forecast": 48.6
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 3:00 PM",
-  "Actual": 50.51,
-  "Forecast": 51.03
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 4:00 PM",
-  "Actual": 52.4,
-  "Forecast": 53.19
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 5:00 PM",
-  "Actual": 54.39,
-  "Forecast": 55.39
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 6:00 PM",
-  "Actual": 56.19,
-  "Forecast": 59.55
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 7:00 PM",
-  "Actual": 57.49,
-  "Forecast": 61.6
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 8:00 PM",
-  "Actual": 58.78,
-  "Forecast": 61.83
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 9:00 PM",
-  "Actual": 60.31,
-  "Forecast": 62.62
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 10:00 PM",
-  "Actual": 59.3,
-  "Forecast": 61.28
-},
-{
-  "City": "Boston",
-  "Date": "4/15/19 11:00 PM",
-  "Actual": 59.14,
-  "Forecast": 58.72
-}]
+var norcross = [{
+    "City": "Norcross",
+    "Date": "4/15/19 12:00 AM",
+    "Actual": 62.32,
+    "Forecast": 62.62
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 1:00 AM",
+    "Actual": 57.75,
+    "Forecast": 59.87
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 2:00 AM",
+    "Actual": 54.61,
+    "Forecast": 56.59
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 3:00 AM",
+    "Actual": 52.12,
+    "Forecast": 54.57
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 4:00 AM",
+    "Actual": 48.94,
+    "Forecast": 52.46
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 5:00 AM",
+    "Actual": 46.98,
+    "Forecast": 50.93
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 6:00 AM",
+    "Actual": 45.3,
+    "Forecast": 49.76
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 7:00 AM",
+    "Actual": 44.1,
+    "Forecast": 48.62
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 8:00 AM",
+    "Actual": 42.97,
+    "Forecast": 47.68
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 9:00 AM",
+    "Actual": 43.05,
+    "Forecast": 46.5
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 10:00 AM",
+    "Actual": 42.68,
+    "Forecast": 45.17
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 11:00 AM",
+    "Actual": 42.12,
+    "Forecast": 43.8
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 12:00 PM",
+    "Actual": 44.41,
+    "Forecast": 44.9
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 1:00 PM",
+    "Actual": 52.46,
+    "Forecast": 49.44
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 2:00 PM",
+    "Actual": 57.4,
+    "Forecast": 56.02
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 3:00 PM",
+    "Actual": 61.23,
+    "Forecast": 62.07
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 4:00 PM",
+    "Actual": 64.64,
+    "Forecast": 65.87
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 5:00 PM",
+    "Actual": 67.29,
+    "Forecast": 69.27
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 6:00 PM",
+    "Actual": 69.93,
+    "Forecast": 71.98
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 7:00 PM",
+    "Actual": 72.4,
+    "Forecast": 74.89
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 8:00 PM",
+    "Actual": 74.36,
+    "Forecast": 76.92
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 9:00 PM",
+    "Actual": 75.76,
+    "Forecast": 78.08
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 10:00 PM",
+    "Actual": 74.94,
+    "Forecast": 77.51
+  },
+  {
+    "City": "Norcross",
+    "Date": "4/15/19 11:00 PM",
+    "Actual": 75.2,
+    "Forecast": 75.52
+  }];
 am4core.useTheme(am4themes_animated);
 
 // create chart
@@ -240,9 +240,9 @@ actual_data = []
 for_data = []
 //actual_data2=[]
 //for_data2=[]
-for (let i =0; i<boston.length; i++) {
-  actual_data.push(boston[i]["Actual"]) 
-  for_data.push(boston[i]["Forecast"])
+for (let i =0; i<norcross.length; i++) {
+  actual_data.push(norcross[i]["Actual"]) 
+  for_data.push(norcross[i]["Forecast"])
   //actual_data2.push(boston[i]["Date"])
 }
 
@@ -284,10 +284,9 @@ legend.data = [{
  "name": "Forecast",
  "fill": chart.colors.getIndex(3)
 }, {
-  "name": "Boston on 04/15/2019",
+  "name": "Norcross on 04/15/2019",
   "fill": chart.colors.getIndex(6)
 }];
-
 
 var labelList = new am4core.ListTemplate(new am4core.Label());
 labelList.template.isMeasured = false;
